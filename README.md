@@ -204,6 +204,7 @@ Keeping agents safe: prompt-injection defense, AI firewalls, model scanning, and
 
 Isolated execution for agent code, plus the tool-calling platforms that let agents act in the world.
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) `OSS` — Local CLI and stdio MCP payment runtime for agents on macOS, with foreground owner approval for signing.
 - [E2B](https://e2b.dev) `OSS` — Cloud sandboxes for agent-generated code; desktop (computer-use) sandboxes.
 - [Arcade](https://www.arcade.dev) `OSS` — Tool-calling platform with per-user authorization; agents act as the user, not a bot.
 - [Composio](https://composio.dev) `OSS` — Managed auth and app integrations as agent tools; skips OAuth plumbing for Gmail, Slack, Jira.

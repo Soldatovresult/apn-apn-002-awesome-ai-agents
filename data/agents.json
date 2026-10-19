@@ -1377,5 +1377,17 @@
       "sandboxes"
     ],
     "description": "AWS microVMs; the isolation tech underneath most multi-tenant agent execution platforms."
+  },
+  {
+    "id": "agent-payment-node",
+    "name": "Agent Payment Node",
+    "url": "https://github.com/nuanu-ai/agent-payment-node",
+    "github": "nuanu-ai/agent-payment-node",
+    "license": "MIT",
+    "status": "active",
+    "categories": [
+      "sandboxes"
+    ],
+    "description": "Local macOS CLI and stdio MCP payments with foreground owner approval for signing."
   }
 ]
